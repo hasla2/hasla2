@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 💻 Working with VMware, Hyper-V, OLVM, XCP-ng, Zabbix, SQL, PowerShell  
 📊 Love automating, monitoring and scaling IT infrastructure  
 
-📫 Reach me at: [LinkedIn]hhttps://www.linkedin.com/in/natalia-iakovenko/) | [Telegram](https://t.me/hasla_hasla)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/natalia-iakovenko/) | [Telegram](https://t.me/hasla_hasla)
 
