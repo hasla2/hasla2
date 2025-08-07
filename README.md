@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi, I’m Natalia
+### 👋 Hi, I’m Hasla
 
 🔧 Sysadmin Team Lead | Infrastructure & Monitoring Enthusiast  
 💻 Working with VMware, Hyper-V, OLVM, XCP-ng, Zabbix, SQL, PowerShell  
